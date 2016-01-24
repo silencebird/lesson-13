@@ -4,7 +4,8 @@
   'utils/mixins',
   'utils/placeholders';
 
-@import 'base/_base',
+@import
+  'base/_base',
   'base/normalize',
   'base/typography';
 
@@ -27,4 +28,6 @@
 
 @import
   'pages/home',
+  'pages/catalog',
+  'pages/info',
   'pages/contact';
